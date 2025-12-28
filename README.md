@@ -1,1 +1,4 @@
-# git_practice
+# git_practice 
+This is repo for devops course
+
+# This  is my first change
